@@ -1,0 +1,3 @@
+[submodule "ckLib"]
+	path = ckLib
+	url = https://github.com/CryptoKasm/ckLib.git
